@@ -1,4 +1,4 @@
-# Python-file-shorter
+# Python-file-sorter
 this code will sort your files by their extentsions, hope you will like it, its my first project
 
 
